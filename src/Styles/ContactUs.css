@@ -1,0 +1,25 @@
+.ContactMain {
+    align-items: center;
+    align-content: center;
+    text-align: center;
+
+}
+
+.Title {
+    font-family: Arial;
+    font-size: 48px;
+}
+
+.top {
+    color: #000;
+    font-family: Arial;
+    font-size: 32px;
+    margin-bottom: -30px;
+}
+
+.bottom {
+    color: #469E60;
+
+    font-family: Arial;
+    font-size: 32px;
+}
