@@ -1,5 +1,5 @@
 import React from "react";
-import { Footer } from "../Components/Footer";
+import { Footer } from "./Footer";
 import img from '../assets/scene1.jpg'
 import '../Styles/AboutUs.css'
 import image1 from '../assets/capetown.jpg';

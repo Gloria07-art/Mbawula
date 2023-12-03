@@ -7,7 +7,7 @@ import { Home } from './Pages/Home';
 import {AboutUs} from './Pages/AboutUs';
 import {Gallery} from './Pages/Gallery';
 import {ContactUs}from './Pages/ContactUs';
-import { Footer } from './Components/Footer';
+import { Footer } from './Pages/Footer';
 
 function App() {
   console.log()
@@ -20,7 +20,9 @@ function App() {
           <Home/>
          <AboutUs/>
         <Gallery/>
+
          <ContactUs/>
+
          <Footer/>
         
         

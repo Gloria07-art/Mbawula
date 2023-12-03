@@ -17,7 +17,7 @@ import img15 from '../assets/w2021.jpg';
 import img16 from '../assets/Scene2.jpg';
 
 
-import { Footer } from "../Components/Footer";
+import { Footer } from "./Footer";
 import '../Styles/Gallery.css'
 
 export const Gallery = () => {
